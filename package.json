@@ -2,16 +2,15 @@
   "name": "heroku_hw",
   "version": "1.0.0",
   "description": "",
-  "main": "all.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node all.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/simonnyu/heroku_hw.git"
   },
-  "author": "simon",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/simonnyu/heroku_hw/issues"

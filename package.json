@@ -1,23 +1,19 @@
 {
-  "name": "helloworld",
+  "name": "heroku_hw",
   "version": "1.0.0",
+  "description": "",
   "main": "all.js",
   "scripts": {
-    "start": "node all.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "simon",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/simonnyu/heroku_hw.git"
   },
+  "author": "simon",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/simonnyu/heroku_hw/issues"
   },
-  "homepage": "https://github.com/simonnyu/heroku_hw#readme",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "description": ""
+  "homepage": "https://github.com/simonnyu/heroku_hw#readme"
 }

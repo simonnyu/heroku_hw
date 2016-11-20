@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/simonnyu/heroku_hw/issues"
   },
-  "homepage": "https://github.com/simonnyu/heroku_hw#readme"
+  "homepage": "https://github.com/simonnyu/heroku_hw#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
 }
